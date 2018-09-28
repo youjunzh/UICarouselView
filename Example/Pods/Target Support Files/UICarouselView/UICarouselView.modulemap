@@ -1,0 +1,6 @@
+framework module UICarouselView {
+  umbrella header "UICarouselView-umbrella.h"
+
+  export *
+  module * { export * }
+}
